@@ -1,16 +1,26 @@
-## Hi there 👋
+# 💻 João Gabriel de Souza Lima
 
-<!--
-**JGSouzaL/JGSouzaL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil! 👋
 
-Here are some ideas to get you started:
+## 📌 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas (ADS) - 2025
+- 💡 Apaixonado por tecnologia e desenvolvimento de software
+- 🚀 Sempre em busca de novos desafios e aprendizados
+
+## 🛠️ Tecnologias e Habilidades
+
+- ⚡ **Linguagens**: C#, Java, HTML, CSS, PHP
+- 📌 **Desenvolvimento Web**: HTML & CSS
+- 🔥 Sempre aprimorando minhas habilidades e aprendendo novas tecnologias
+
+## 📫 Contato
+
+- 💼 [GitHub](https://github.com/JGSouzaL)
+- ✉️ Entre em contato comigo para colaborações e projetos.
+- Email Profissional:joaoGSLata@hotmail.com
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JGSouzaL&show_icons=true&theme=radical)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JGSouzaL)](https://github.com/JGSouzaL/github-readme-stats)
